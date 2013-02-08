@@ -4,3 +4,4 @@ Add text
 3. Add text in master
 4. Add text in testing2
 5. Add text in master again
+6. Remove push testing in master
